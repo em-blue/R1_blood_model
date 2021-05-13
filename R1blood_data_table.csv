@@ -1,167 +1,167 @@
-﻿Ref,B0,R1,blood source or tissue,Hct,fwatere,so2,po2,,,
-stefanovic and pike,1.5,0.873,Human blood,0.512,0.450025113,0.42,32.83096785,,,1
-stefanovic and pike,1.5,0.848,Human blood,0.512,0.450025113,0.43,33.33235667,,,0
-stefanovic and pike,1.5,0.839,Human blood,0.512,0.450025113,0.48,35.91921774,,,1
-stefanovic and pike,1.5,0.836,Human blood,0.512,0.450025113,0.62,44.35529399,,,0.4
-stefanovic and pike,1.5,0.832,Human blood,0.512,0.450025113,0.66,47.30341245,,,31.8407097
-stefanovic and pike,1.5,0.816,Human blood,0.512,0.450025113,0.72,52.49503053,,,689
-stefanovic and pike,1.5,0.809,Human blood,0.512,0.450025113,0.87,74.81188129,,,
-stefanovic and pike,1.5,0.796,Human blood,0.512,0.450025113,0.93,96.4428884,,,
-lu et al,3,0.581,Bovine blood,0.38,0.318181818,0.97,134.0699759,,,
-lu et al,3,0.593,Bovine blood,0.4,0.337349398,0.97,134.0699759,,,
-lu et al,3,0.599,Bovine blood,0.42,0.356796117,0.97,134.0699759,,,
-lu et al,3,0.602,Bovine blood,0.45,0.386503067,0.97,134.0699759,,,
-lu et al,3,0.633,Bovine blood,0.46,0.396551724,0.97,134.0699759,,,
-lu et al,3,0.599,Bovine blood,0.38,0.318181818,0.64,45.78771135,,,
-lu et al,3,0.617,Bovine blood,0.4,0.337349398,0.64,45.78771135,,,
-lu et al,3,0.627,Bovine blood,0.42,0.356796117,0.64,45.78771135,,,
-lu et al,3,0.667,Bovine blood,0.46,0.396551724,0.64,45.78771135,,,
-Rane and Gore,7,0.35,Human blood,0,0,0.64,45.78771135,,,
-Rane and Gore,7,0.46,Human blood,0.35,0.289940828,0.64,45.78771135,,,
-Rane and Gore,7,0.48,Human blood,0.38,0.318181818,0.64,45.78771135,,,
-Rane and Gore,7,0.51,Human blood,0.48,0.416873449,0.64,45.78771135,,,
-Rane and Gore,7,0.69,Human blood,0.99,1.061255743,0.64,45.78771135,,,
-Rane and Gore,7,0.35,Human blood,0,0,0.97,134.0699759,,,
-Rane and Gore,7,0.43,Human blood,0.35,0.289940828,0.97,134.0699759,,,
-Rane and Gore,7,0.42,Human blood,0.38,0.318181818,0.97,134.0699759,,,
-Rane and Gore,7,0.46,Human blood,0.48,0.416873449,0.97,134.0699759,,,
-Rane and Gore,7,0.64,Human blood,0.99,1.061255743,0.97,134.0699759,,,
-Grgac et al,7,0.32,Bovine blood,0,0,0.8,61.82824313,,,
-Grgac et al,7,0.32,Bovine blood,0,0,0.6,42.99527281,,,
-Grgac et al,7,0.32,Bovine blood,0,0,0.4,31.8407097,,,
-Grgac et al,7,0.43,Bovine blood,0.31,0.253208868,0.89,80.25960691,,,
-Grgac et al,7,0.44,Bovine blood,0.31,0.253208868,0.74,54.50615733,,,
-Grgac et al,7,0.45,Bovine blood,0.31,0.253208868,0.62,44.35529399,,,
-Grgac et al,7,0.46,Bovine blood,0.31,0.253208868,0.5,37,,,
-Grgac et al,7,0.48,Bovine blood,0.45,0.386503067,0.79,60.43878467,,,
-Grgac et al,7,0.5,Bovine blood,0.45,0.386503067,0.75,55.57932907,,,
-Grgac et al,7,0.51,Bovine blood,0.45,0.386503067,0.59,42.33947662,,,
-Grgac et al,7,0.52,Bovine blood,0.45,0.386503067,0.49,36.4558202,,,
-Grgac et al,7,0.54,Bovine blood,0.56,0.501278772,0.79,60.43878467,,,
-Grgac et al,7,0.56,Bovine blood,0.56,0.501278772,0.67,48.09646467,,,
-Grgac et al,7,0.57,Bovine blood,0.56,0.501278772,0.58,41.69843564,,,
-Grgac et al,7,0.59,Bovine blood,0.56,0.501278772,0.42,32.83096785,,,
-Grgac et al,7,0.57,Bovine blood,0.63,0.579500657,0.87,74.81188129,,,
-Grgac et al,7,0.58,Bovine blood,0.63,0.579500657,0.74,54.50615733,,,
-Grgac et al,7,0.6,Bovine blood,0.63,0.579500657,0.62,44.35529399,,,
-Grgac et al,7,0.61,Bovine blood,0.63,0.579500657,0.5,37,,,
-Grgac et al,7,0.62,Bovine blood,0.75,0.724137931,0.86,72.47542435,,,
-Grgac et al,7,0.65,Bovine blood,0.75,0.724137931,0.71,51.54945477,,,
-Grgac et al,7,0.67,Bovine blood,0.75,0.724137931,0.61,43.66684439,,,
-Grgac et al,7,0.69,Bovine blood,0.75,0.724137931,0.49,36.4558202,,,
-Grgac et al,7,0.71,Bovine blood,1,1.076923077,0.88,77.38980168,,,
-Grgac et al,7,0.78,Bovine blood,1,1.076923077,0.79,60.43878467,,,
-Grgac et al,7,0.77,Bovine blood,1,1.076923077,0.71,51.54945477,,,
-Grgac et al,7,0.8,Bovine blood,1,1.076923077,0.57,41.07120338,,,
-Dobre et al,4.7,0.5456,Bovine blood,0.43,0.366626066,0.81,63.30464571,,,
-Dobre et al,7,0.4521,Bovine blood,0.43,0.366626066,0.79,60.43878467,,,
-Dobre et al,9,0.4117,Bovine blood,0.53,0.469026549,0.8,61.82824313,,,
-Silvennoinen,4.7,0.6,Blood ex vivo,0.41,0.347037485,0.99,202.920475,,,
-Silvennoinen,4.7,0.58,Blood ex vivo,0.41,0.347037485,0.97,134.0699759,,,
-Silvennoinen,4.7,0.6,Blood ex vivo,0.41,0.347037485,0.94,102.5145834,,,
-Silvennoinen,4.7,0.635,Blood ex vivo,0.41,0.347037485,0.94,102.5145834,,,
-Silvennoinen,4.7,0.595,Blood ex vivo,0.41,0.347037485,0.91,87.16646997,,,
-Silvennoinen,4.7,0.615,Blood ex vivo,0.41,0.347037485,0.9,83.48815731,,,
-Silvennoinen,4.7,0.645,Blood ex vivo,0.41,0.347037485,0.85,70.341556,,,
-Silvennoinen,4.7,0.64,Blood ex vivo,0.41,0.347037485,0.84,68.37973163,,,
-Silvennoinen,4.7,0.62,Blood ex vivo,0.41,0.347037485,0.82,64.87926583,,,
-Silvennoinen,4.7,0.625,Blood ex vivo,0.41,0.347037485,0.77,57.88397532,,,
-Silvennoinen,4.7,0.66,Blood ex vivo,0.41,0.347037485,0.77,57.88397532,,,
-Silvennoinen,4.7,0.665,Blood ex vivo,0.41,0.347037485,0.74,54.50615733,,,
-Silvennoinen,4.7,0.66,Blood ex vivo,0.41,0.347037485,0.73,53.47940594,,,
-Silvennoinen,4.7,0.665,Blood ex vivo,0.41,0.347037485,0.72,52.49503053,,,
-Silvennoinen,4.7,0.66,Blood ex vivo,0.41,0.347037485,0.71,51.54945477,,,
-Silvennoinen,4.7,0.665,Blood ex vivo,0.41,0.347037485,0.71,51.54945477,,,
-Silvennoinen,4.7,0.645,Blood ex vivo,0.41,0.347037485,0.7,50.63950156,,,
-Silvennoinen,4.7,0.685,Blood ex vivo,0.41,0.347037485,0.7,50.63950156,,,
-Silvennoinen,4.7,0.675,Blood ex vivo,0.41,0.347037485,0.69,49.76233607,,,
-Silvennoinen,4.7,0.7,Blood ex vivo,0.41,0.347037485,0.63,45.06181668,,,
-Silvennoinen,4.7,0.81,Blood ex vivo,0.41,0.347037485,0.47,35.38967176,,,
-Silvennoinen,4.7,0.58,Blood ex vivo,0.41,0.347037485,0.917,90,,,
-Silvennoinen,4.7,0.6,Blood ex vivo,0.41,0.347037485,0.944,105,,,
-Silvennoinen,4.7,0.64,Blood ex vivo,0.41,0.347037485,0.944,105,,,
-Silvennoinen,4.7,0.62,Blood ex vivo,0.41,0.347037485,0.987,185,,,
-Silvennoinen,4.7,0.66,Blood ex vivo,0.41,0.347037485,0.992,225,,,
-Silvennoinen,4.7,0.68,Blood ex vivo,0.41,0.347037485,0.992,225,,,
-Silvennoinen,4.7,0.64,Blood ex vivo,0.41,0.347037485,0.995,270,,,
-Silvennoinen,4.7,0.68,Blood ex vivo,0.41,0.347037485,0.996,290,,,
-Silvennoinen,4.7,0.7,Blood ex vivo,0.41,0.347037485,0.996,290,,,
-Silvennoinen,4.7,0.69,Blood ex vivo,0.41,0.347037485,0.997,320,,,
-Silvennoinen,4.7,0.67,Blood ex vivo,0.41,0.347037485,0.998,345,,,
-Silvennoinen,4.7,0.75,Blood ex vivo,0.41,0.347037485,0.998,390,,,
-Silvennoinen,4.7,0.78,Blood ex vivo,0.75,0.724137931,0.94,102.5145834,,,
-Silvennoinen,4.7,0.81,Blood ex vivo,0.75,0.724137931,0.9,83.48815731,,,
-Silvennoinen,4.7,0.79,Blood ex vivo,0.75,0.724137931,0.89,80.25960691,,,
-Silvennoinen,4.7,0.79,Blood ex vivo,0.75,0.724137931,0.88,77.38980168,,,
-Silvennoinen,4.7,0.82,Blood ex vivo,0.75,0.724137931,0.82,64.87926583,,,
-Silvennoinen,4.7,0.81,Blood ex vivo,0.75,0.724137931,0.75,55.57932907,,,
-Silvennoinen,4.7,0.87,Blood ex vivo,0.75,0.724137931,0.74,54.50615733,,,
-Silvennoinen,4.7,0.825,Blood ex vivo,0.75,0.724137931,0.72,52.49503053,,,
-Silvennoinen,4.7,0.84,Blood ex vivo,0.75,0.724137931,0.7,50.63950156,,,
-Silvennoinen,4.7,0.9,Blood ex vivo,0.75,0.724137931,0.68,48.91541854,,,
-Silvennoinen,4.7,0.94,Blood ex vivo,0.75,0.724137931,0.62,44.35529399,,,
-Silvennoinen,4.7,0.87,Blood ex vivo,0.75,0.724137931,0.61,43.66684439,,,
-Silvennoinen,4.7,1.1,Blood ex vivo,0.75,0.724137931,0.49,36.4558202,,,
-Silvennoinen,4.7,0.91,Blood ex vivo,0.75,0.724137931,0.47,35.38967176,,,
-Silvennoinen,4.7,0.99,Blood ex vivo,0.75,0.724137931,0.46,34.86668351,,,
-Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.99,202.920475,,,
-Silvennoinen,4.7,0.54,Blood ex vivo,0.21,0.16572717,0.92,91.42243325,,,
-Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.91,87.16646997,,,
-Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.88,77.38980168,,,
-Silvennoinen,4.7,0.56,Blood ex vivo,0.21,0.16572717,0.86,72.47542435,,,
-Silvennoinen,4.7,0.53,Blood ex vivo,0.21,0.16572717,0.79,60.43878467,,,
-Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.76,56.70351772,,,
-Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.72,52.49503053,,,
-Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.66,47.30341245,,,
-Silvennoinen,4.7,0.59,Blood ex vivo,0.21,0.16572717,0.64,45.78771135,,,
-Silvennoinen,4.7,0.6,Blood ex vivo,0.21,0.16572717,0.46,34.86668351,,,
-Silvennoinen,4.7,0.615,Blood ex vivo,0.21,0.16572717,0.45,34.34977378,,,
-D'Othee,8.45,0.412,Bovine blood ex vivo,0.31,0.253208868,0.972,138,,,
-D'Othee,8.45,0.429,Bovine blood ex vivo,0.31,0.253208868,0.994,248,,,
-D'Othee,8.45,0.458,Bovine blood ex vivo,0.31,0.253208868,0.998,372,,,
-D'Othee,8.45,0.495,Bovine blood ex vivo,0.31,0.253208868,0.999,526,,,
-D'Othee,8.45,0.532,Bovine blood ex vivo,0.31,0.253208868,1,689,,,
-D'Othee,8.45,0.343,Bovine blood ex vivo,0,0,0.972,138,,,
-D'Othee,8.45,0.35,Bovine blood ex vivo,0,0,0.994,248,,,
-D'Othee,8.45,0.364,Bovine blood ex vivo,0,0,0.998,372,,,
-D'Othee,8.45,0.38,Bovine blood ex vivo,0,0,0.999,526,,,
-D'Othee,8.45,0.397,Bovine blood ex vivo,0,0,1,689,,,
-D'Othee,1.5,0.47,Bovine blood ex vivo,0,0,0.972,138,,,
-D'Othee,1.5,0.51,Bovine blood ex vivo,0.31,0.253208868,0.994,248,,,
-D'Othee,1.5,0.558,Bovine blood ex vivo,0.31,0.253208868,0.998,372,,,
-D'Othee,1.5,0.616,Bovine blood ex vivo,0.31,0.253208868,0.999,526,,,
-D'Othee,1.5,0.638,Bovine blood ex vivo,0.31,0.253208868,1,689,,,
-Pilkinton,3,0.613,Rat blood in vivo,0.427,0.363669546,0.93,99.3,,,
-Pilkinton,3,0.61,Rat blood in vivo,0.427,0.363669546,0.977,154.3,,,
-Pilkinton,3,0.624,Rat blood in vivo,0.427,0.363669546,0.994,266.8,,,
-Pilkinton,3,0.642,Rat blood in vivo,0.427,0.363669546,0.998,388.8,,,
-Pilkinton,3,0.66,Rat blood in vivo,0.427,0.363669546,0.999,501.2,,,
-Blockley ,1.5,0.68,Human blood ex vivo,0.435,0.371568029,0.89,80.25960691,,,
-Blockley ,1.5,0.67,Human blood ex vivo,0.435,0.371568029,0.85,70.341556,,,
-Blockley ,1.5,0.67,Human blood ex vivo,0.435,0.371568029,0.85,70.341556,,,
-Blockley ,1.5,0.64,Human blood ex vivo,0.435,0.371568029,0.83,66.5655562,,,
-Blockley ,1.5,0.64,Human blood ex vivo,0.435,0.371568029,0.82,64.87926583,,,
-Blockley ,1.5,0.71,Human blood ex vivo,0.435,0.371568029,0.72,52.49503053,,,
-Blockley ,1.5,0.68,Human blood ex vivo,0.435,0.371568029,0.64,45.78771135,,,
-Blockley ,1.5,0.68,Human blood ex vivo,0.435,0.371568029,0.56,40.45689931,,,
-Blockley ,1.5,0.68,Human blood ex vivo,0.435,0.371568029,0.56,40.45689931,,,
-Blockley ,1.5,0.78,Human blood ex vivo,0.435,0.371568029,0.54,39.26384337,,,
-Blockley ,1.5,0.67,Human blood ex vivo,0.435,0.371568029,0.52,38.11330219,,,
-Blockley ,3,0.6,Human blood ex vivo,0.435,0.371568029,0.89,80.25960691,,,
-Blockley ,3,0.57,Human blood ex vivo,0.435,0.371568029,0.86,72.47542435,,,
-Blockley ,3,0.6,Human blood ex vivo,0.435,0.371568029,0.85,70.341556,,,
-Blockley ,3,0.54,Human blood ex vivo,0.435,0.371568029,0.83,66.5655562,,,
-Blockley ,3,0.6,Human blood ex vivo,0.435,0.371568029,0.82,64.87926583,,,
-Blockley ,3,0.59,Human blood ex vivo,0.435,0.371568029,0.72,52.49503053,,,
-Blockley ,3,0.64,Human blood ex vivo,0.435,0.371568029,0.64,45.78771135,,,
-Blockley ,7,0.49,Human blood ex vivo,0.435,0.371568029,0.89,80.25960691,,,
-Blockley ,7,0.46,Human blood ex vivo,0.435,0.371568029,0.86,72.47542435,,,
-Blockley ,7,0.51,Human blood ex vivo,0.435,0.371568029,0.85,70.341556,,,
-Blockley ,7,0.51,Human blood ex vivo,0.435,0.371568029,0.83,66.5655562,,,
-Blockley ,7,0.47,Human blood ex vivo,0.435,0.371568029,0.82,64.87926583,,,
-Blockley ,7,0.52,Human blood ex vivo,0.435,0.371568029,0.72,52.49503053,,,
-Blockley ,7,0.52,Human blood ex vivo,0.435,0.371568029,0.64,45.78771135,,,
-Blockley ,7,0.52,Human blood ex vivo,0.435,0.371568029,0.56,40.45689931,,,
-Blockley ,7,0.53,Human blood ex vivo,0.435,0.371568029,0.56,40.45689931,,,
-Blockley ,7,0.53,Human blood ex vivo,0.435,0.371568029,0.53,38.68360264,,,
-Blockley ,7,0.51,Human blood ex vivo,0.435,0.371568029,0.52,38.11330219,,,
+﻿Ref,B0,R1,blood source or tissue,Hct,fwatere,so2,po2
+stefanovic and pike,1.5,0.873,Human blood,0.512,0.450025113,0.42,32.83096785
+stefanovic and pike,1.5,0.848,Human blood,0.512,0.450025113,0.43,33.33235667
+stefanovic and pike,1.5,0.839,Human blood,0.512,0.450025113,0.48,35.91921774
+stefanovic and pike,1.5,0.836,Human blood,0.512,0.450025113,0.62,44.35529399
+stefanovic and pike,1.5,0.832,Human blood,0.512,0.450025113,0.66,47.30341245
+stefanovic and pike,1.5,0.816,Human blood,0.512,0.450025113,0.72,52.49503053
+stefanovic and pike,1.5,0.809,Human blood,0.512,0.450025113,0.87,74.81188129
+stefanovic and pike,1.5,0.796,Human blood,0.512,0.450025113,0.93,96.4428884
+lu et al,3,0.581,Bovine blood,0.38,0.318181818,0.97,134.0699759
+lu et al,3,0.593,Bovine blood,0.4,0.337349398,0.97,134.0699759
+lu et al,3,0.599,Bovine blood,0.42,0.356796117,0.97,134.0699759
+lu et al,3,0.602,Bovine blood,0.45,0.386503067,0.97,134.0699759
+lu et al,3,0.633,Bovine blood,0.46,0.396551724,0.97,134.0699759
+lu et al,3,0.599,Bovine blood,0.38,0.318181818,0.64,45.78771135
+lu et al,3,0.617,Bovine blood,0.4,0.337349398,0.64,45.78771135
+lu et al,3,0.627,Bovine blood,0.42,0.356796117,0.64,45.78771135
+lu et al,3,0.667,Bovine blood,0.46,0.396551724,0.64,45.78771135
+Rane and Gore,7,0.35,Human blood,0,0,0.64,45.78771135
+Rane and Gore,7,0.46,Human blood,0.35,0.289940828,0.64,45.78771135
+Rane and Gore,7,0.48,Human blood,0.38,0.318181818,0.64,45.78771135
+Rane and Gore,7,0.51,Human blood,0.48,0.416873449,0.64,45.78771135
+Rane and Gore,7,0.69,Human blood,0.99,1.061255743,0.64,45.78771135
+Rane and Gore,7,0.35,Human blood,0,0,0.97,134.0699759
+Rane and Gore,7,0.43,Human blood,0.35,0.289940828,0.97,134.0699759
+Rane and Gore,7,0.42,Human blood,0.38,0.318181818,0.97,134.0699759
+Rane and Gore,7,0.46,Human blood,0.48,0.416873449,0.97,134.0699759
+Rane and Gore,7,0.64,Human blood,0.99,1.061255743,0.97,134.0699759
+Grgac et al,7,0.32,Bovine blood,0,0,0.8,61.82824313
+Grgac et al,7,0.32,Bovine blood,0,0,0.6,42.99527281
+Grgac et al,7,0.32,Bovine blood,0,0,0.4,31.8407097
+Grgac et al,7,0.43,Bovine blood,0.31,0.253208868,0.89,80.25960691
+Grgac et al,7,0.44,Bovine blood,0.31,0.253208868,0.74,54.50615733
+Grgac et al,7,0.45,Bovine blood,0.31,0.253208868,0.62,44.35529399
+Grgac et al,7,0.46,Bovine blood,0.31,0.253208868,0.5,37
+Grgac et al,7,0.48,Bovine blood,0.45,0.386503067,0.79,60.43878467
+Grgac et al,7,0.5,Bovine blood,0.45,0.386503067,0.75,55.57932907
+Grgac et al,7,0.51,Bovine blood,0.45,0.386503067,0.59,42.33947662
+Grgac et al,7,0.52,Bovine blood,0.45,0.386503067,0.49,36.4558202
+Grgac et al,7,0.54,Bovine blood,0.56,0.501278772,0.79,60.43878467
+Grgac et al,7,0.56,Bovine blood,0.56,0.501278772,0.67,48.09646467
+Grgac et al,7,0.57,Bovine blood,0.56,0.501278772,0.58,41.69843564
+Grgac et al,7,0.59,Bovine blood,0.56,0.501278772,0.42,32.83096785
+Grgac et al,7,0.57,Bovine blood,0.63,0.579500657,0.87,74.81188129
+Grgac et al,7,0.58,Bovine blood,0.63,0.579500657,0.74,54.50615733
+Grgac et al,7,0.6,Bovine blood,0.63,0.579500657,0.62,44.35529399
+Grgac et al,7,0.61,Bovine blood,0.63,0.579500657,0.5,37
+Grgac et al,7,0.62,Bovine blood,0.75,0.724137931,0.86,72.47542435
+Grgac et al,7,0.65,Bovine blood,0.75,0.724137931,0.71,51.54945477
+Grgac et al,7,0.67,Bovine blood,0.75,0.724137931,0.61,43.66684439
+Grgac et al,7,0.69,Bovine blood,0.75,0.724137931,0.49,36.4558202
+Grgac et al,7,0.71,Bovine blood,1,1.076923077,0.88,77.38980168
+Grgac et al,7,0.78,Bovine blood,1,1.076923077,0.79,60.43878467
+Grgac et al,7,0.77,Bovine blood,1,1.076923077,0.71,51.54945477
+Grgac et al,7,0.8,Bovine blood,1,1.076923077,0.57,41.07120338
+Dobre et al,4.7,0.5456,Bovine blood,0.43,0.366626066,0.81,63.30464571
+Dobre et al,7,0.4521,Bovine blood,0.43,0.366626066,0.79,60.43878467
+Dobre et al,9,0.4117,Bovine blood,0.53,0.469026549,0.8,61.82824313
+Silvennoinen,4.7,0.6,Blood ex vivo,0.41,0.347037485,0.99,202.920475
+Silvennoinen,4.7,0.58,Blood ex vivo,0.41,0.347037485,0.97,134.0699759
+Silvennoinen,4.7,0.6,Blood ex vivo,0.41,0.347037485,0.94,102.5145834
+Silvennoinen,4.7,0.635,Blood ex vivo,0.41,0.347037485,0.94,102.5145834
+Silvennoinen,4.7,0.595,Blood ex vivo,0.41,0.347037485,0.91,87.16646997
+Silvennoinen,4.7,0.615,Blood ex vivo,0.41,0.347037485,0.9,83.48815731
+Silvennoinen,4.7,0.645,Blood ex vivo,0.41,0.347037485,0.85,70.341556
+Silvennoinen,4.7,0.64,Blood ex vivo,0.41,0.347037485,0.84,68.37973163
+Silvennoinen,4.7,0.62,Blood ex vivo,0.41,0.347037485,0.82,64.87926583
+Silvennoinen,4.7,0.625,Blood ex vivo,0.41,0.347037485,0.77,57.88397532
+Silvennoinen,4.7,0.66,Blood ex vivo,0.41,0.347037485,0.77,57.88397532
+Silvennoinen,4.7,0.665,Blood ex vivo,0.41,0.347037485,0.74,54.50615733
+Silvennoinen,4.7,0.66,Blood ex vivo,0.41,0.347037485,0.73,53.47940594
+Silvennoinen,4.7,0.665,Blood ex vivo,0.41,0.347037485,0.72,52.49503053
+Silvennoinen,4.7,0.66,Blood ex vivo,0.41,0.347037485,0.71,51.54945477
+Silvennoinen,4.7,0.665,Blood ex vivo,0.41,0.347037485,0.71,51.54945477
+Silvennoinen,4.7,0.645,Blood ex vivo,0.41,0.347037485,0.7,50.63950156
+Silvennoinen,4.7,0.685,Blood ex vivo,0.41,0.347037485,0.7,50.63950156
+Silvennoinen,4.7,0.675,Blood ex vivo,0.41,0.347037485,0.69,49.76233607
+Silvennoinen,4.7,0.7,Blood ex vivo,0.41,0.347037485,0.63,45.06181668
+Silvennoinen,4.7,0.81,Blood ex vivo,0.41,0.347037485,0.47,35.38967176
+Silvennoinen,4.7,0.58,Blood ex vivo,0.41,0.347037485,0.917,90
+Silvennoinen,4.7,0.6,Blood ex vivo,0.41,0.347037485,0.944,105
+Silvennoinen,4.7,0.64,Blood ex vivo,0.41,0.347037485,0.944,105
+Silvennoinen,4.7,0.62,Blood ex vivo,0.41,0.347037485,0.987,185
+Silvennoinen,4.7,0.66,Blood ex vivo,0.41,0.347037485,0.992,225
+Silvennoinen,4.7,0.68,Blood ex vivo,0.41,0.347037485,0.992,225
+Silvennoinen,4.7,0.64,Blood ex vivo,0.41,0.347037485,0.995,270
+Silvennoinen,4.7,0.68,Blood ex vivo,0.41,0.347037485,0.996,290
+Silvennoinen,4.7,0.7,Blood ex vivo,0.41,0.347037485,0.996,290
+Silvennoinen,4.7,0.69,Blood ex vivo,0.41,0.347037485,0.997,320
+Silvennoinen,4.7,0.67,Blood ex vivo,0.41,0.347037485,0.998,345
+Silvennoinen,4.7,0.75,Blood ex vivo,0.41,0.347037485,0.998,390
+Silvennoinen,4.7,0.78,Blood ex vivo,0.75,0.724137931,0.94,102.5145834
+Silvennoinen,4.7,0.81,Blood ex vivo,0.75,0.724137931,0.9,83.48815731
+Silvennoinen,4.7,0.79,Blood ex vivo,0.75,0.724137931,0.89,80.25960691
+Silvennoinen,4.7,0.79,Blood ex vivo,0.75,0.724137931,0.88,77.38980168
+Silvennoinen,4.7,0.82,Blood ex vivo,0.75,0.724137931,0.82,64.87926583
+Silvennoinen,4.7,0.81,Blood ex vivo,0.75,0.724137931,0.75,55.57932907
+Silvennoinen,4.7,0.87,Blood ex vivo,0.75,0.724137931,0.74,54.50615733
+Silvennoinen,4.7,0.825,Blood ex vivo,0.75,0.724137931,0.72,52.49503053
+Silvennoinen,4.7,0.84,Blood ex vivo,0.75,0.724137931,0.7,50.63950156
+Silvennoinen,4.7,0.9,Blood ex vivo,0.75,0.724137931,0.68,48.91541854
+Silvennoinen,4.7,0.94,Blood ex vivo,0.75,0.724137931,0.62,44.35529399
+Silvennoinen,4.7,0.87,Blood ex vivo,0.75,0.724137931,0.61,43.66684439
+Silvennoinen,4.7,1.1,Blood ex vivo,0.75,0.724137931,0.49,36.4558202
+Silvennoinen,4.7,0.91,Blood ex vivo,0.75,0.724137931,0.47,35.38967176
+Silvennoinen,4.7,0.99,Blood ex vivo,0.75,0.724137931,0.46,34.86668351
+Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.99,202.920475
+Silvennoinen,4.7,0.54,Blood ex vivo,0.21,0.16572717,0.92,91.42243325
+Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.91,87.16646997
+Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.88,77.38980168
+Silvennoinen,4.7,0.56,Blood ex vivo,0.21,0.16572717,0.86,72.47542435
+Silvennoinen,4.7,0.53,Blood ex vivo,0.21,0.16572717,0.79,60.43878467
+Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.76,56.70351772
+Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.72,52.49503053
+Silvennoinen,4.7,0.57,Blood ex vivo,0.21,0.16572717,0.66,47.30341245
+Silvennoinen,4.7,0.59,Blood ex vivo,0.21,0.16572717,0.64,45.78771135
+Silvennoinen,4.7,0.6,Blood ex vivo,0.21,0.16572717,0.46,34.86668351
+Silvennoinen,4.7,0.615,Blood ex vivo,0.21,0.16572717,0.45,34.34977378
+D'Othee,8.45,0.412,Bovine blood ex vivo,0.31,0.253208868,0.972,138
+D'Othee,8.45,0.429,Bovine blood ex vivo,0.31,0.253208868,0.994,248
+D'Othee,8.45,0.458,Bovine blood ex vivo,0.31,0.253208868,0.998,372
+D'Othee,8.45,0.495,Bovine blood ex vivo,0.31,0.253208868,0.999,526
+D'Othee,8.45,0.532,Bovine blood ex vivo,0.31,0.253208868,1,689
+D'Othee,8.45,0.343,Bovine blood ex vivo,0,0,0.972,138
+D'Othee,8.45,0.35,Bovine blood ex vivo,0,0,0.994,248
+D'Othee,8.45,0.364,Bovine blood ex vivo,0,0,0.998,372
+D'Othee,8.45,0.38,Bovine blood ex vivo,0,0,0.999,526
+D'Othee,8.45,0.397,Bovine blood ex vivo,0,0,1,689
+D'Othee,1.5,0.47,Bovine blood ex vivo,0,0,0.972,138
+D'Othee,1.5,0.51,Bovine blood ex vivo,0.31,0.253208868,0.994,248
+D'Othee,1.5,0.558,Bovine blood ex vivo,0.31,0.253208868,0.998,372
+D'Othee,1.5,0.616,Bovine blood ex vivo,0.31,0.253208868,0.999,526
+D'Othee,1.5,0.638,Bovine blood ex vivo,0.31,0.253208868,1,689
+Pilkinton,3,0.613,Rat blood in vivo,0.427,0.363669546,0.93,99.3
+Pilkinton,3,0.61,Rat blood in vivo,0.427,0.363669546,0.977,154.3
+Pilkinton,3,0.624,Rat blood in vivo,0.427,0.363669546,0.994,266.8
+Pilkinton,3,0.642,Rat blood in vivo,0.427,0.363669546,0.998,388.8
+Pilkinton,3,0.66,Rat blood in vivo,0.427,0.363669546,0.999,501.2
+Blockley ,1.5,0.68,Human blood ex vivo,0.435,0.371568029,0.89,80.25960691
+Blockley ,1.5,0.67,Human blood ex vivo,0.435,0.371568029,0.85,70.341556
+Blockley ,1.5,0.67,Human blood ex vivo,0.435,0.371568029,0.85,70.341556
+Blockley ,1.5,0.64,Human blood ex vivo,0.435,0.371568029,0.83,66.5655562
+Blockley ,1.5,0.64,Human blood ex vivo,0.435,0.371568029,0.82,64.87926583
+Blockley ,1.5,0.71,Human blood ex vivo,0.435,0.371568029,0.72,52.49503053
+Blockley ,1.5,0.68,Human blood ex vivo,0.435,0.371568029,0.64,45.78771135
+Blockley ,1.5,0.68,Human blood ex vivo,0.435,0.371568029,0.56,40.45689931
+Blockley ,1.5,0.68,Human blood ex vivo,0.435,0.371568029,0.56,40.45689931
+Blockley ,1.5,0.78,Human blood ex vivo,0.435,0.371568029,0.54,39.26384337
+Blockley ,1.5,0.67,Human blood ex vivo,0.435,0.371568029,0.52,38.11330219
+Blockley ,3,0.6,Human blood ex vivo,0.435,0.371568029,0.89,80.25960691
+Blockley ,3,0.57,Human blood ex vivo,0.435,0.371568029,0.86,72.47542435
+Blockley ,3,0.6,Human blood ex vivo,0.435,0.371568029,0.85,70.341556
+Blockley ,3,0.54,Human blood ex vivo,0.435,0.371568029,0.83,66.5655562
+Blockley ,3,0.6,Human blood ex vivo,0.435,0.371568029,0.82,64.87926583
+Blockley ,3,0.59,Human blood ex vivo,0.435,0.371568029,0.72,52.49503053
+Blockley ,3,0.64,Human blood ex vivo,0.435,0.371568029,0.64,45.78771135
+Blockley ,7,0.49,Human blood ex vivo,0.435,0.371568029,0.89,80.25960691
+Blockley ,7,0.46,Human blood ex vivo,0.435,0.371568029,0.86,72.47542435
+Blockley ,7,0.51,Human blood ex vivo,0.435,0.371568029,0.85,70.341556
+Blockley ,7,0.51,Human blood ex vivo,0.435,0.371568029,0.83,66.5655562
+Blockley ,7,0.47,Human blood ex vivo,0.435,0.371568029,0.82,64.87926583
+Blockley ,7,0.52,Human blood ex vivo,0.435,0.371568029,0.72,52.49503053
+Blockley ,7,0.52,Human blood ex vivo,0.435,0.371568029,0.64,45.78771135
+Blockley ,7,0.52,Human blood ex vivo,0.435,0.371568029,0.56,40.45689931
+Blockley ,7,0.53,Human blood ex vivo,0.435,0.371568029,0.56,40.45689931
+Blockley ,7,0.53,Human blood ex vivo,0.435,0.371568029,0.53,38.68360264
+Blockley ,7,0.51,Human blood ex vivo,0.435,0.371568029,0.52,38.11330219
